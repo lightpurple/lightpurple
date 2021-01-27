@@ -1,5 +1,7 @@
-# Hi! I'm EunSeong
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+# Hi! I'm EunSeong#
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-C-lightgray"/></a>, <img src="https://img.shields.io/badge/-Vim-lightgreen"/></a>
+- 👨‍🎓 I'm majoring in Computer Science, at Sunchon National Univ.
+<!--
 <!--
 **lightpurple/lightpurple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 ## My Github Stats
-[![lightpurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightpurple)](https://github.com/lightpurple/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightpurple&layout=compact)](https://github.com/lightpurple/github-readme-stats)
+[![lightpurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightpurple)](https://github.com/lightpurple/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightpurple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## BOJ Tier
