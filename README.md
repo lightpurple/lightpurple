@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
+
 ## My Github Stats
 [![lightpurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightpurple)](https://github.com/lightpurple/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lightpurple)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ## BOJ Tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dmstjd10)](https://solved.ac/dmstjd10)
