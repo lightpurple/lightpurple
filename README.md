@@ -2,7 +2,7 @@
 - 👨‍🎓 I'm majoring in Computer Science, at Sunchon National Univ.
 - 🌱 I’m currently learning 
  <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> at
-<img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SEOUL-000000?style=flat-square&logo=42&logoColor=white"/></a>
 
 ## My Github Stats
 [![lightpurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightpurple&show_icons=true&theme=tokyonight)](https://github.com/lightpurple/github-readme-stats) 
