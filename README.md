@@ -1,8 +1,8 @@
 ## Hi! I'm EunSeong
 - 👨‍🎓 I'm majoring in Computer Science, at Sunchon National Univ.
-- 🌱 I’m currently learning 
- <img src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> at
-<img src="https://img.shields.io/badge/SEOUL-000000?style=flat-square&logo=42&logoColor=white"/></a>
+- 🌱 I’m currently learning in <img src="https://img.shields.io/badge/SEOUL-000000?style=flat-square&logo=42&logoColor=white"/></a>
+- 📫 42 Intra ID: euhong
+- 🧐 I'm currently studying <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/></a>
 
 ## My Github Stats
 [![lightpurple's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightpurple&show_icons=true&theme=tokyonight)](https://github.com/lightpurple/github-readme-stats) 
