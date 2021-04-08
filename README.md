@@ -8,7 +8,7 @@
 
 📫 42 Intra ID: euhong
 
-[![euhong's 42 stats](https://badge42.herokuapp.com/api/stats/euhong?cursus=C%20Piscine)](https://github.com/euhong/badge42)
+[![euhong's 42 stats](https://badge42.herokuapp.com/api/stats/euhong?privacyName=true)](https://github.com/euhong/badge42)
 
 ------------------------------
 ### BOJ Tier
