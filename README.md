@@ -22,6 +22,5 @@
   
   <h3> 🌱 I'm currently learning in 42Seoul</h3>
   
-  [![euhong's 42 stats](https://badge42.herokuapp.com/api/stats/euhong?privacyName=true)](https://github.com/euhong/badge42)
-
+  ![euhong's 42 stats](https://badge42.vercel.app/api/v2/cl23agnmv001109mt7i4j1hsb/stats?cursusId=21&coalitionId=88)
 </div>
